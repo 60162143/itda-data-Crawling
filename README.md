@@ -61,7 +61,7 @@
                           "storeId" : "가게 고유 아이디",
                           "workingTime" : "가게 운영시간"
         },
-        "hashTag" : { "hasTagId" : "해시태그 고유 아이디",
+        "hashTag" : { "hashTagId" : "해시태그 고유 아이디",
                       "storeId" : "가게 고유 아이디",
                       "hashTagName" : "해시태그"
         },
